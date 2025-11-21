@@ -1,6 +1,6 @@
 - 👋 Hi, I’m salma 
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m interested in web, mobile dev and AI integration
+- 🌱 Currently learning Java, web and mobile dev
 - 📫 You can reach me through this email : salmaezzahid3@gmail.com
 
 <!---
