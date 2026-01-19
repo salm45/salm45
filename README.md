@@ -1,5 +1,5 @@
 - 👋 Hi, I’m salma 
-- 👀 I’m interested in web, mobile dev and AI integration
+- 👀 I’m interested in web, mobile dev and AI integration, and a growing love for software engineering.
 - 🌱 Currently learning Java, web and mobile dev
 - 📫 You can reach me through this email : salmaezzahid3@gmail.com
 
